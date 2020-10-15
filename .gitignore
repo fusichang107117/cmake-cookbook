@@ -33,3 +33,7 @@
 # Python stuff
 *.pyc
 venv/
+
+builds
+build
+.vscode
